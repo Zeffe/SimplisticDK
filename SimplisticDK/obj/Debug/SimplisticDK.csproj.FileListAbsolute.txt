@@ -1,0 +1,9 @@
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\bin\Debug\SimplisticDK.exe.config
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\bin\Debug\SimplisticDK.exe
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\bin\Debug\SimplisticDK.pdb
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\obj\Debug\SimplisticDK.csprojResolveAssemblyReference.cache
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\obj\Debug\SimplisticDK.formStart.resources
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\obj\Debug\SimplisticDK.Properties.Resources.resources
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\obj\Debug\SimplisticDK.csproj.GenerateResource.Cache
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\obj\Debug\SimplisticDK.exe
+c:\users\seth\documents\visual studio 2015\Projects\SimplisticDK\SimplisticDK\obj\Debug\SimplisticDK.pdb
